@@ -1,0 +1,32 @@
+main{
+    padding: 100px 20px 100px 20px;
+}
+
+.movie-article {
+    padding: 30px 30px 30px 30px;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto 0 auto;
+}
+
+.movie-title {
+    font-size: 24px;
+    margin: 0 0 24px 0;
+}
+
+.movie-plot {
+    font-size: 16px;
+    margin: 0 0 16px 0;
+}
+
+.movie-info{
+    display: flex;
+    flex-direction: column;
+}
+
+.movie-info span{
+    font-size: 18px;
+    margin: 0 10px 10px 10px;
+}

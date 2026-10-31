@@ -1,0 +1,20 @@
+header{
+    padding: 0 20px 0 20px;
+}
+
+.movies-list{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.movies-list li{
+    font-size: 20px;
+    cursor: pointer;
+    margin: 0 10px 0 10px;
+}
+
+.movies-list li:hover{
+    color: #ffffff;
+}
